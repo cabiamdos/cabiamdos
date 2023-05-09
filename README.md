@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ---
 
-![](https://gh-hits.nomadcoders.workers.dev/view?username=cabiamdos)
+![Visitors](https://gh-hits.nomadcoders.workers.dev/view?username=cabiamdos)
